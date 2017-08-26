@@ -8,6 +8,10 @@ This project is underthe MIT License and will updated as needed.
 Simply put, I'm creating this template for anyone to use and it is free
 of charge. I only ask that if you use it, please do give credit back to me.
 
+## Quick Start
+For a template on setting up a resume, view the [sample.html](https://github.com/oluwatobi/no-frills-resume/blob/master/sample.html)
+file in this repository.
+
 ## Getting Started
 Include this CSS link in your web application.
 
