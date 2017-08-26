@@ -1,0 +1,106 @@
+/*
+ * @author Oluwatobi Oni-Orisan (@oluwatobi)
+ */
+
+.cv {}
+
+.resume-title {
+  font-size: 25px;
+  text-align: center;
+  padding: 2% 0% 1% 0%;
+}
+
+.resume-subtitle {
+  font-size: 13px;
+  text-align: center;
+  position: relative;
+}
+
+.resume-section {
+  padding: 1% 0% 0% 0%;
+}
+
+.resume-header {
+  font-size: 17px;
+  text-align: left;
+  margin: 0% 2% 0% 2%;
+  border-bottom: 1px solid black;
+}
+
+.resume-entry {
+  font-size: 13px;
+  padding: 0.5% 2% 2% 2%;
+  text-align: left;
+}
+
+.education-description {}
+
+.education-title {
+  font-weight: bold;
+}
+
+.education-subtitle {
+  display: inline-block;
+  margin-top: 0px;
+  padding: 0px;
+  width: 100%;
+}
+
+.education-position {
+  font-style: italic;
+  float: left;
+}
+
+.education-date {
+  float: right;
+  text-align: left;
+}
+
+.education-highlights {
+  text-align: left;
+  margin-top: -1.4%;
+  margin-bottom: -3%;
+  padding: 0px;
+}
+
+.education-bullet {
+  text-align: left;
+}
+
+.experience-title-container {
+  display: inline-block;
+  width: 100%;
+}
+
+.experience-title {
+  display: inline-block;
+  font-weight: bold;
+  float: left;
+}
+
+.experience-date {
+  float: right;
+  text-align: left;
+  margin-bottom: 0px;
+}
+
+.experience-subtitle {
+  margin: 0.25% 0% 1% 0%;
+  width: 100%;
+}
+
+.experience-position {
+  font-style: italic;
+  margin-top: -0.5%;
+}
+
+.experience-highlights {
+  text-align: left;
+  margin-top: -1.4%;
+  margin-bottom: -3%;
+  padding: 0px;
+}
+
+.experience-bullet {
+  text-align: left;
+}
